@@ -93,7 +93,7 @@ If required, edit `/etc/default/readsb` to set the service options, device type,
 
 ## rtl-sdr bias tee
 
-Use this utility independen of readsb:
+Use this utility independent of readsb:
 https://github.com/wiedehopf/adsb-wiki/wiki/RTL-Bias-Tee
 
 ## Global map of aircraft
